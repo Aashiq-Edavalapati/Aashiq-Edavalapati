@@ -21,6 +21,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node-dot-js&logoColor=white&style=flat)  
+![MongoDB](https://img.shields.io/badge/-mongo-339933?logo=mongoDB&logoColor=white&style=flat)
 
 ### Core Concepts  
 ![OOPS](https://img.shields.io/badge/-OOPS-6DB33F?logo=oops&logoColor=white&style=flat)  
