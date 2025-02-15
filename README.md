@@ -7,21 +7,25 @@
 ## 🛠️ Skills & Technologies  
 
 ### Programming Languages  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)  
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)  
-![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?logo=haskell&logoColor=white&style=flat)  
+<div>
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
+  <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Haskell-5D4F85?logo=haskell&logoColor=white&style=flat" />
+</div>
 
 ### Web Development  
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)  
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node-dot-js&logoColor=white&style=flat)  
-![MongoDB](https://img.shields.io/badge/-mongo-339933?logo=mongoDB&logoColor=white&style=flat)
+<div>
+  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat">
+  <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node-dot-js&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/-mongo-339933?logo=mongoDB&logoColor=white&style=flat">
+</div>
 
 ### Core Concepts  
 ![OOPS](https://img.shields.io/badge/-OOPS-6DB33F?logo=oops&logoColor=white&style=flat)  
