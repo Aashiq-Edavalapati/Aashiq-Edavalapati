@@ -45,9 +45,10 @@
 ---
 
 ## 💡 About Me  
+- 🥉 3rd Place Winner at HackBeyondLimits Hackathon
 - 🌟 Consistent problem solver on [LeetCode](https://leetcode.com/u/Aashiq_Edavalapati/)  
 - 📖 Currently pursuing my **B.Tech in Computer Science and Engineering** with a **CGPA of 8.81/10**  
-- 💻 Enthusiastic about learning, growing, and contributing to the tech community  
+- 💻 Enthusiastic about learning, growing, and contributing to the tech community
 
 ---
 
