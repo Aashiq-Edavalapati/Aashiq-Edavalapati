@@ -1,12 +1,14 @@
-# 👋 Hi, I'm Aashiq Edavalapati  
+# 🚀 Aashiq Edavalapati  
 
-🎓 I'm a Computer Science and Engineering (CSE) student at **Amrita Vishwa Vidyapeetham**, with a passion for building impactful software solutions and exploring the depths of computer science.  
+🎓 **Computer Science & Engineering Student @ Amrita Vishwa Vidyapeetham**  
+💡 Passionate about **AI, Blockchain, Data Analytics & Problem-Solving**  
+🛠️ Building **real-world software solutions** to solve complex challenges  
 
 ---
 
-## 🛠️ Skills & Technologies  
+## 🛠️ **Skills & Technologies**  
 
-### Programming Languages  
+### 🚀 **Programming Languages**  
 <div>
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat" />
@@ -17,52 +19,99 @@
   <img src="https://img.shields.io/badge/-Haskell-5D4F85?logo=haskell&logoColor=white&style=flat" />
 </div>
 
-### Web Development  
+### 🌐 **Web & Software Development**  
 <div>
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat">
   <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat">
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat">
-  <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat">
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node-dot-js&logoColor=white&style=flat">
-  <img src="https://img.shields.io/badge/-mongo-339933?logo=mongoDB&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat">
 </div>
 
-### Core Concepts  
-![OOPS](https://img.shields.io/badge/-OOPS-6DB33F?logo=oops&logoColor=white&style=flat)  
-![Operating Systems](https://img.shields.io/badge/-Operating_Systems-FF4500?logo=linux&logoColor=white&style=flat)  
-![Data Structures & Algorithms](https://img.shields.io/badge/-DSA-FFA500?logo=algorithms&logoColor=white&style=flat)  
-![DBMS](https://img.shields.io/badge/-DBMS-4479A1?logo=mysql&logoColor=white&style=flat)  
-
-### Tools & Platforms  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)  
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat)  
-![Shell Script](https://img.shields.io/badge/-Shell_Script-2E8B57?logo=script&logoColor=white&style=flat)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)  
-![Numpy](https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white&style=flat)  
+### 🔥 **Core Concepts**  
+✅ **Data Structures & Algorithms**  
+✅ **Database Management Systems (DBMS)**  
+✅ **Operating Systems & Linux**  
+✅ **Object-Oriented Programming (OOP)**  
+✅ **Cybersecurity Fundamentals**  
 
 ---
 
-## 💡 About Me  
-- 🥉 3rd Place Winner at HackBeyondLimits Hackathon
-- 🌟 Consistent problem solver on [LeetCode](https://leetcode.com/u/Aashiq_Edavalapati/)  
-- 📖 Currently pursuing my **B.Tech in Computer Science and Engineering** with a **CGPA of 8.81/10**  
-- 💻 Enthusiastic about learning, growing, and contributing to the tech community
+## 📊 **GitHub Stats**  
+
+![Aashiq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aashiq-Edavalapati&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aashiq-Edavalapati&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aashiq-Edavalapati&theme=radical)  
 
 ---
 
-## 📫 Let's Connect!  
-- **Email**: [aashiqedavalapati58@gmail.com](mailto:aashiqedavalapati58@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/aashiq-edavalapati-77b346289/](https://www.linkedin.com/in/aashiq-edavalapati-77b346289/)  
+## 🏆 **Notable Achievements**  
+- 🥉 **3rd Place** at *HackBeyondLimits 2024* (Blockchain-based Agricultural Supply Chain Solution)  
+- 💻 **Amrita Winter of Code 2024**: Implemented *Dash Table in Go* and enhanced *Leaderboard UI*  
+- 🎯 **LeetCode Mastery**:  
+  - Solved **590+ problems**  
+  - Maintained a **125-day streak**  
+  - Published **26 solutions** with **300+ upvotes**  
+- 🎤 **Anokha 2024**: Managed *tech event logistics* & facilitated the **Gen AI workshop**  
 
 ---
 
-## 🌱 Fun Facts  
-- 🧩 I enjoy solving coding challenges and strive to be consistent every day!  
-- 🌟 Exploring new technologies and tools is my favorite hobby.  
+## 🚀 **Projects**  
+
+### 🔗 **AgriChain** - *Blockchain-Based Supply Chain*  
+**Tech Stack**: React.js, Express.js, Node.js, Blockchain, PostgreSQL  
+📌 Developed **frontend UI** & built **Express APIs** for **secure, transparent agriculture transactions**  
+🏆 Secured **3rd place at Hack Beyond Limits 2024**  
+🔗 [GitHub Repo](https://github.com/tokenomists/AgriChain)  
+
+### 🔗 **Link-Us** - *AI-Powered Friend Recommendation System*  
+**Tech Stack**: Python, Collections, Priority Queue, Max Heap  
+📌 Engineered **friend ranking system** using **AI-based weightage (FoF: 30%, Mutual: 25%, Hobby: 25%, Popularity: 20%)**  
+🔗 [GitHub Repo](https://github.com/adithya-menon-r/Link-Us.git)  
+
+### 🔗 **LuxeRideRentals** - *Car Rental System*  
+**Tech Stack**: HTML, CSS, JavaScript, Node.js, Electron  
+📌 Designed **frontend UI**, implemented **secure login system**, and **real-time pricing updates**  
+🔗 [GitHub Repo](https://github.com/Aashiq-Edavalapati/Car-Rental-Website.git)  
+
+### 🔗 **Portfolio Website**  
+**Tech Stack**: React.js, CSS, Node.js  
+📌 Built **fully responsive** **personal website** showcasing **skills, projects & achievements**  
+🔗 [Portfolio](https://aashiqedavalapati.vercel.app/)  
 
 ---
 
-## 🚀 Call to Action  
-Feel free to explore my repositories, connect with me, or collaborate on exciting projects! Let's create something amazing together. 🌐  
+## 📜 **Certifications & Courses**  
+📌 **Google CyberSecurity Professional Certificate** (Dec 2024)  
+📌 **Google Cloud Data Analytics** *(Ongoing)*  
+📌 **CS50’s AI with Python - Harvard** *(Ongoing)*  
+
+---
+
+## 📬 **Let's Connect!**  
+<div>
+  <a href="mailto:aashiqedavalapati58@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/aashiq-edavalapati-77b346289/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn">
+  </a>
+  <a href="https://leetcode.com/u/Aashiq_Edavalapati/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=flat" alt="LeetCode">
+  </a>
+  <a href="https://github.com/Aashiq-Edavalapati">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" alt="GitHub">
+  </a>
+  <a href="https://aashiqedavalapati.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?logo=google-chrome&logoColor=white&style=flat" alt="Portfolio">
+  </a>
+</div>
+
+---
+
+### **🚀 Call to Action**  
+📌 **Looking for collaborations & networking opportunities** 🔥  
+📌 **Check out my repositories, let's innovate together!**  
