@@ -34,7 +34,7 @@
 
 ### ⚡ **Languages & Tools**  
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,go,haskell,c,html,css,nodejs,react,nextjs,mongodb,postgresql,git,linux,vscode,bash,arduino,raspberrypi" />  
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,go,haskell,c,html,css,nodejs,react,nextjs,mongodb,postgresql,git,github,linux,vscode,bash,arduino,raspberrypi" />  
 </p>  
 
 ### 🔥 **Core Specialties**  
