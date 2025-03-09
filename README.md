@@ -35,7 +35,7 @@ const Aashiq = {
     longestStreak: "125 days",
     originalSolutionsUpvotes: "300+"
   },
-  currentLearning: ["System Design", "Cloud Architecture", "Quantum Computing"],
+  currentLearning: ["AI/ML", "Cloud Data Analytics", "Java Spring Boot"],
   quote: "The code that changes the world is written by those crazy enough to think they can."
 };
 
