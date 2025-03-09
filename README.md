@@ -67,7 +67,6 @@ while(alive) {
   ### 💻 Core Specialties
   ![Algorithms & Data Structures](https://img.shields.io/badge/Algorithms_&_Data_Structures-590+_Problems-5D4F85?style=for-the-badge)
   ![AI & ML Applications](https://img.shields.io/badge/AI_&_ML-Building_Intelligent_Systems-FF6F00?style=for-the-badge)
-  ![Blockchain Development](https://img.shields.io/badge/Blockchain-Smart_Contract_Design-121D33?style=for-the-badge)
   ![Full-Stack Development](https://img.shields.io/badge/Full_Stack-End_to_End_Solutions-007ACC?style=for-the-badge)
   
 </div>
@@ -97,8 +96,6 @@ while(alive) {
         <li>🔥 <b>590+ Problems Solved</b></li>
         <li>⏱️ <b>125-Day Streak</b></li>
         <li>⭐ <b>300+ Solution Upvotes</b></li>
-        <li>🏅 <b>Weekly Contest Participant</b></li>
-        <li>📊 <b>Top 5% in Dynamic Programming</b></li>
       </ul>
     </td>
   </tr>
@@ -194,23 +191,21 @@ while(alive) {
 
 - 🥉 **HackBeyondLimits 2024 - 3rd Place Winner**
   - Created AgriChain, revolutionizing agricultural supply chains with blockchain
-  - Presented to panel of industry experts from Microsoft and IBM
   - Solution highlighted for real-world implementation potential
 
 - 💻 **Amrita Winter of Code 2024 - Key Contributor**
   - Implemented Dash Table in Go from scratch
   - Enhanced Leaderboard UI with advanced filtering capabilities
-  - Collaborated with 20+ developers across 4 time zones
 
 - 📊 **LeetCode Achievements**
-  - Ranked in top 2% among Indian coders
+  - Ranked in top 90,000 world wide
   - 125-day consistent streak demonstrating discipline and commitment
-  - Special recognition for elegant solution to complex graph problem
+  - Overall of 300++ solution upvotes
 
 - 🎤 **Anokha 2024 - Tech Leadership**
-  - Led team of 15 student volunteers for college tech festival
+  - Volunteered as a student volunteer
   - Organized hands-on workshop on Generative AI attended by 200+ students
-  - Managed event logistics with 99.8% attendee satisfaction rating
+  - Managed event logistics with attendee satisfaction.
 
 ---
 
@@ -229,7 +224,7 @@ while(alive) {
 ```
 "I'm not just building software; I'm architecting solutions that bridge technology gaps
 and create tangible impact. My goal is to develop AI systems that augment human potential
-and blockchain applications that democratize access to financial services."
+applications that democratize access to financial services."
 ```
 
 ---
