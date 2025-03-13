@@ -29,9 +29,9 @@ I'm not just a coder – I'm a digital architect crafting the future, one line a
 const Aashiq = {
   mission: "Building technology that transforms lives",
   education: "Computer Science & Engineering at Amrita Vishwa Vidyapeetham",
-  expertise: ["Algorithms", "AI/ML", "Blockchain", "Full-Stack Development"],
+  expertise: ["Algorithms", "AI/ML", "Full-Stack Development", "Problem Solving"],
   leetcodeStats: {
-    problemsSolved: "590+",
+    problemsSolved: "600+",
     longestStreak: "125 days",
     originalSolutionsUpvotes: "300+"
   },
@@ -56,10 +56,10 @@ while(alive) {
   <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,go,c,html,css" />  
 </p>
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,postgresql,git,github,linux" />  
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,mysql,postgresql,git,github,linux" />  
 </p>
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=vscode,bash,arduino,raspberrypi,haskell" />  
+  <img src="https://skillicons.dev/icons?i=eclipse,vscode,bash,arduino,raspberrypi,haskell" />  
 </p>
 
 <div align="center">
@@ -184,7 +184,7 @@ while(alive) {
     <img width="140" src="https://img.shields.io/badge/LeetCode-590+_Problems-FFA116?style=for-the-badge" alt="LeetCode"/>
   </a>
   <a href="#">
-    <img width="160" src="https://img.shields.io/badge/Anokha_2024-Tech_Leader-00CED1?style=for-the-badge" alt="Anokha 2024"/>
+    <img width="160" src="https://img.shields.io/badge/Anokha_2024-Student_Volunteer-00CED1?style=for-the-badge" alt="Anokha 2024"/>
   </a>
 
 </div>
