@@ -200,7 +200,7 @@ while(alive) {
 - 📊 **LeetCode Achievements**
   - Ranked in top 90,000 world wide
   - 125-day consistent streak demonstrating discipline and commitment
-  - Overall of 300++ solution upvotes
+  - Overall of 300+ solution upvotes
 
 - 🎤 **Anokha 2024 - Tech Leadership**
   - Volunteered as a student volunteer
@@ -224,7 +224,7 @@ while(alive) {
 ```
 "I'm not just building software; I'm architecting solutions that bridge technology gaps
 and create tangible impact. My goal is to develop AI systems that augment human potential
-applications that democratize access to financial services."
+applications that makes our lives easier."
 ```
 
 ---
