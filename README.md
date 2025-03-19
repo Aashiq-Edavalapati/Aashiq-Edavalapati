@@ -2,7 +2,7 @@
   
   #  AASHIQ EDAVALAPATI 
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&height=70&lines=Computer+Science+Engineer;Algorithms+Enthusiast;AI+Enthusiast;Professional+Problem+Solver;Opensource+Contributor)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&height=70&lines=💻Computer+Science+Engineer💻;🪜Algorithms+Enthusiast🪜;🤖AI+Enthusiast🤖;⚡Professional+Problem+Solver⚡;📂Opensource+Contributor📂)](https://git.io/typing-svg)
   
   [![Email](https://img.shields.io/badge/Email-aashiqedavalapati58@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:aashiqedavalapati58@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aashiq_Edavalapati-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/aashiq-edavalapati-77b346289/)
