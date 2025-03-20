@@ -158,6 +158,9 @@ while(alive) {
           <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FnNDM5bjZwdjN1cjk2a28zaXljNnhucGZ2MHV1ZGp6cmpsbnB6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="100%" alt="Portfolio Website"/>
         </a>
         <p>
+          <a href="https://github.com/Aashiq-Edavalapati/My_Portfolio.git">
+            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
           <a href="https://aashiqedavalapati.vercel.app/">
             <img src="https://img.shields.io/badge/Live-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
           </a>
