@@ -23,7 +23,7 @@
 
 ## 👨‍💻 WHO AM I?
 
-I'm not just a coder – I'm a digital architect crafting the future, one line at a time.
+I'm not just a coder – I'm a digital architect crafting the future.
 
 ```javascript
 const Aashiq = {
