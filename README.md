@@ -6,7 +6,7 @@
   
   [![Email](https://img.shields.io/badge/Email-aashiqedavalapati58@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:aashiqedavalapati58@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aashiq_Edavalapati-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/aashiq-edavalapati-77b346289/)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-590+_Problems-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/Aashiq_Edavalapati/)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-600+_Problems-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/Aashiq_Edavalapati/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-4285F4?logo=google-chrome&logoColor=white&style=for-the-badge)](https://aashiqedavalapati.vercel.app/)
   
   <img src="https://komarev.com/ghpvc/?username=Aashiq-Edavalapati&style=for-the-badge&color=6A5ACD" alt="Profile Views"/>
@@ -65,7 +65,7 @@ while(alive) {
 <div align="center">
   
   ### 💻 Core Specialties
-  ![Algorithms & Data Structures](https://img.shields.io/badge/Algorithms_&_Data_Structures-590+_Problems-5D4F85?style=for-the-badge)
+  ![Algorithms & Data Structures](https://img.shields.io/badge/Algorithms_&_Data_Structures-600+_Problems-5D4F85?style=for-the-badge)
   ![AI & ML Applications](https://img.shields.io/badge/AI_&_ML-Building_Intelligent_Systems-FF6F00?style=for-the-badge)
   ![Full-Stack Development](https://img.shields.io/badge/Full_Stack-End_to_End_Solutions-007ACC?style=for-the-badge)
   
@@ -93,7 +93,7 @@ while(alive) {
     </td>
     <td>
       <ul>
-        <li>🔥 <b>590+ Problems Solved</b></li>
+        <li>🔥 <b>600+ Problems Solved</b></li>
         <li>⏱️ <b>125-Day Streak</b></li>
         <li>⭐ <b>300+ Solution Upvotes</b></li>
       </ul>
@@ -184,7 +184,7 @@ while(alive) {
     <img width="185" src="https://img.shields.io/badge/AWoC_2024-Contributor-7B68EE?style=for-the-badge" alt="Amrita Winter of Code 2024"/>
   </a>
   <a href="#">
-    <img width="140" src="https://img.shields.io/badge/LeetCode-590+_Problems-FFA116?style=for-the-badge" alt="LeetCode"/>
+    <img width="140" src="https://img.shields.io/badge/LeetCode-600+_Problems-FFA116?style=for-the-badge" alt="LeetCode"/>
   </a>
   <a href="#">
     <img width="160" src="https://img.shields.io/badge/Anokha_2024-Student_Volunteer-00CED1?style=for-the-badge" alt="Anokha 2024"/>
