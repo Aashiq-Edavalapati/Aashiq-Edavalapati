@@ -122,17 +122,17 @@ while(alive) {
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 Link-Us</h3>
+      <h3 align="center">Gradia</h3>
       <div align="center">
-        <a href="https://github.com/adithya-menon-r/Link-Us.git">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBjbm4yZGRzcWt2eGx4ZWh5MG9nc3VsaXFkbXdscXRuNW5zNndidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPic2BnoVZkRVSM/giphy.gif" width="100%" alt="Link-Us Project"/>
+        <a href="https://github.com/tokenomists/Gradia">
+          <img src="https://github.com/user-attachments/assets/8c582995-3033-41c6-bb01-cb69a920423f" width="100%" alt="Gradia Project"/>
         </a>
         <p>
-          <a href="https://github.com/adithya-menon-r/Link-Us.git">
+          <a href="https://github.com/tokenomists/Gradia">
             <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
         </p>
-        <p><strong>Python, Priority Queue, Max Heap</strong> - AI-powered social connection platform with multi-factor recommendation engine. Advanced algorithm balancing social, interest, and geographic factors.</p>
+        <p><strong>Next.js, Node.js, Express.js, Python, AI</strong> - AI-powered platform for automated answer grading, coding test evaluation, and performance analytics.></p>
       </div>
     </td>
   </tr>
@@ -166,6 +166,22 @@ while(alive) {
           </a>
         </p>
         <p><strong>React.js, CSS, Node.js</strong> - Professional showcase featuring fully responsive design, interactive UI with smooth animations, and comprehensive project gallery with live demos.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Link-Us</h3>
+      <div align="center">
+        <a href="https://github.com/adithya-menon-r/Link-Us.git">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBjbm4yZGRzcWt2eGx4ZWh5MG9nc3VsaXFkbXdscXRuNW5zNndidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPic2BnoVZkRVSM/giphy.gif" width="100%" alt="Link-Us Project"/>
+        </a>
+        <p>
+          <a href="https://github.com/adithya-menon-r/Link-Us.git">
+            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>Python, Priority Queue, Max Heap</strong> - AI-powered social connection platform with multi-factor recommendation engine. Advanced algorithm balancing social, interest, and geographic factors.</p>
       </div>
     </td>
   </tr>
