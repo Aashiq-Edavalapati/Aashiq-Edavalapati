@@ -144,7 +144,7 @@ while(alive) {
       <h3 align="center">🚗 LuxeRideRentals</h3>
       <div align="center">
         <a href="https://github.com/Aashiq-Edavalapati/Car-Rental-Website.git">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTRmZHhxODNzamp2Y2F3cmg3eTB0dW1iaWNjcTMwZmoyZGV5N3JieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J9wZJLPywQuKovK/giphy.gif" width="100%" alt="LuxeRideRentals Project"/>
+          <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/146023771/415029983-84671b70-8890-468f-9f0d-a5ad19019d11.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250512%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250512T184606Z&X-Amz-Expires=300&X-Amz-Signature=475d4fae370846095a6ec8ed1319d151e9cc9af4acaab6db839d4fbc6368e821&X-Amz-SignedHeaders=host" width="100%" alt="LuxeRideRentals Project"/>
         </a>
         <p>
           <a href="https://github.com/Aashiq-Edavalapati/Car-Rental-Website.git">
