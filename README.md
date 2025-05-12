@@ -131,7 +131,7 @@ while(alive) {
           <a href="https://github.com/tokenomists/Gradia">
             <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
-          <a href="https://aashiqedavalapati.vercel.app/">
+          <a href="https://gradia-tokenomists.vercel.app/">
             <img src="https://img.shields.io/badge/Live-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
           </a>
         </p>
