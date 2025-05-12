@@ -131,6 +131,9 @@ while(alive) {
           <a href="https://github.com/tokenomists/Gradia">
             <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
+          <a href="https://aashiqedavalapati.vercel.app/">
+            <img src="https://img.shields.io/badge/Live-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+          </a>
         </p>
         <p><strong>Next.js, Node.js, Express.js, Python, AI</strong> - AI-powered platform for automated answer grading, coding test evaluation, and performance analytics.></p>
       </div>
