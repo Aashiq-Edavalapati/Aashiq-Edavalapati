@@ -33,9 +33,8 @@ const Aashiq = {
   leetcodeStats: {
     problemsSolved: "600+",
     longestStreak: "125 days",
-    originalSolutionsUpvotes: "300+"
+    originalSolutionsUpvotes: "350+"
   },
-  currentLearning: ["AI/ML", "Cloud Data Analytics", "Java Spring Boot"],
   quote: "The code that changes the world is written by those crazy enough to think they can."
 };
 
@@ -108,20 +107,6 @@ while(alive) {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🌾 AgriChain</h3>
-      <div align="center">
-        <a href="https://github.com/tokenomists/AgriChain">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzR5ZXVnbDdyZXUwN2h1c3o1dHBxYzNlcWR5M3g0Y3kzZXJxM3dvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="AgriChain Project"/>
-        </a>
-        <p>
-          <a href="https://github.com/tokenomists/AgriChain">
-            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>React.js, Express.js, Node.js, PostgreSQL, Ethereum</strong> - Blockchain-powered agriculture supply chain solution that enhances transparency and efficiency. 🏆 <i>3rd place at Hack Beyond Limits 2024</i></p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
       <h3 align="center">Gradia</h3>
       <div align="center">
         <a href="https://github.com/tokenomists/Gradia">
@@ -136,6 +121,20 @@ while(alive) {
           </a>
         </p>
         <p><strong>Next.js, Node.js, Express.js, Python, AI</strong> - AI-powered platform for automated answer grading, coding test evaluation, and performance analytics.></p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌾 AgriChain</h3>
+      <div align="center">
+        <a href="https://github.com/tokenomists/AgriChain">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzR5ZXVnbDdyZXUwN2h1c3o1dHBxYzNlcWR5M3g0Y3kzZXJxM3dvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="AgriChain Project"/>
+        </a>
+        <p>
+          <a href="https://github.com/tokenomists/AgriChain">
+            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>React.js, Express.js, Node.js, PostgreSQL, Ethereum</strong> - Blockchain-powered agriculture supply chain solution that enhances transparency and efficiency. 🏆 <i>3rd place at Hack Beyond Limits 2024</i></p>
       </div>
     </td>
   </tr>
@@ -222,12 +221,13 @@ while(alive) {
 - 📊 **LeetCode Achievements**
   - Ranked in top 90,000 world wide
   - 125-day consistent streak demonstrating discipline and commitment
-  - Overall of 300+ solution upvotes
+  - Overall of 350+ solution upvotes
 
 - 🎤 **Anokha 2024 - Tech Leadership**
   - Volunteered as a student volunteer
-  - Organized hands-on workshop on Generative AI attended by 200+ students
+  - Organized hands-on workshop on Generative AI attended by 150+ students
   - Managed event logistics with attendee satisfaction.
+  - Clarified doubts of the attended students.
 
 ---
 
