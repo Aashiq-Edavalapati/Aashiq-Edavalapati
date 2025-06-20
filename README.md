@@ -107,7 +107,7 @@ while(alive) {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Gradia</h3>
+      <h3 align="center">🤖 Gradia</h3>
       <div align="center">
         <a href="https://github.com/tokenomists/Gradia">
           <img src="https://github.com/user-attachments/assets/8c582995-3033-41c6-bb01-cb69a920423f" width="100%" alt="Gradia Project"/>
@@ -140,24 +140,24 @@ while(alive) {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🚗 LuxeRideRentals</h3>
+      <h3 align="center">☁️ Google Cloud Data Analytics Capstone Project</h3>
       <div align="center">
-        <a href="https://github.com/Aashiq-Edavalapati/Car-Rental-Website.git">
-          <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/146023771/415029983-84671b70-8890-468f-9f0d-a5ad19019d11.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250512%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250512T184606Z&X-Amz-Expires=300&X-Amz-Signature=475d4fae370846095a6ec8ed1319d151e9cc9af4acaab6db839d4fbc6368e821&X-Amz-SignedHeaders=host" width="100%" alt="LuxeRideRentals Project"/>
+        <a href="https://github.com/Aashiq-Edavalapati/google-cloud-data-analytics-capstone">
+          <img src="https://github.com/Aashiq-Edavalapati/google-cloud-data-analytics-capstone/blob/main/Part%202%20-%20Analyze%20and%20activate%20your%20data%20with%20Looker%20Enterprise/screenshots/9_Top%2010%20Customers%20by%20Highest%20Income.png?raw=true" width="100%" alt="Google Capstone Project"/>
         </a>
         <p>
-          <a href="https://github.com/Aashiq-Edavalapati/Car-Rental-Website.git">
+          <a href="https://github.com/Aashiq-Edavalapati/google-cloud-data-analytics-capstone">
             <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
         </p>
-        <p><strong>HTML, CSS, JavaScript, Node.js, Electron</strong> - Modern car rental platform with secure authentication, dynamic pricing engine based on demand, and interactive UI with real-time updates.</p>
+        <p><strong>GCP, BigQuery, Looker</strong> - A real-world capstone project simulating a cloud data analyst role at a FinTech startup. I designed a dashboard and executive summary report for the Treasury team to monitor loan health, performance, and growth using BigQuery and Looker. This included data ingestion, transformation, dashboard design, and insight generation.</p>
       </div>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🎨 Portfolio Website</h3>
       <div align="center">
         <a href="https://aashiqedavalapati.vercel.app/">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FnNDM5bjZwdjN1cjk2a28zaXljNnhucGZ2MHV1ZGp6cmpsbnB6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="100%" alt="Portfolio Website"/>
+          <img src="https://private-user-images.githubusercontent.com/146023771/457504703-213f1011-c0d5-445c-a765-feacac5d7f6b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA0NTIzMTksIm5iZiI6MTc1MDQ1MjAxOSwicGF0aCI6Ii8xNDYwMjM3NzEvNDU3NTA0NzAzLTIxM2YxMDExLWMwZDUtNDQ1Yy1hNzY1LWZlYWNhYzVkN2Y2Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYyMFQyMDQwMTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yM2RkM2U4N2ZlY2QyNGMwNTU1NTAzMTk2ODJiYzJmZjBiNWJkODU0MWI4YzkwZjdiZTU1ZWYzNzVjNGNkMjFkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.CXDUXnRGJrD6BXWqXM6EzGLzBDBi0DBUraF9zsKh3ek" width="100%" alt="Portfolio Website"/>
         </a>
         <p>
           <a href="https://github.com/Aashiq-Edavalapati/My_Portfolio.git">
@@ -184,6 +184,20 @@ while(alive) {
           </a>
         </p>
         <p><strong>Python, Priority Queue, Max Heap</strong> - AI-powered social connection platform with multi-factor recommendation engine. Advanced algorithm balancing social, interest, and geographic factors.</p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🚗 LuxeRideRentals</h3>
+      <div align="center">
+        <a href="https://github.com/Aashiq-Edavalapati/Car-Rental-Website.git">
+          <img src="https://private-user-images.githubusercontent.com/146023771/415029983-84671b70-8890-468f-9f0d-a5ad19019d11.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA0NTIxMzUsIm5iZiI6MTc1MDQ1MTgzNSwicGF0aCI6Ii8xNDYwMjM3NzEvNDE1MDI5OTgzLTg0NjcxYjcwLTg4OTAtNDY4Zi05ZjBkLWE1YWQxOTAxOWQxMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYyMFQyMDM3MTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yYjg1MDY1NjNhYTEzMjUyZmU0ZTFiNzdiNTZmMzJhNmJjNGRlYWFlNDEzYTNhOTc2MjI0YjU5OTZjZmFhZDYyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.VWkLPh-MexMKZl6b-2RXyIew8C0-qESIiWQZBRwYF7g" width="100%" alt="LuxeRideRentals Project"/>
+        </a>
+        <p>
+          <a href="https://github.com/Aashiq-Edavalapati/Car-Rental-Website.git">
+            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>HTML, CSS, JavaScript, Node.js, Electron</strong> - Modern car rental platform with secure authentication, dynamic pricing engine based on demand, and interactive UI with real-time updates.</p>
       </div>
     </td>
   </tr>
