@@ -127,7 +127,7 @@ while(alive) {
       <h3 align="center">🌾 AgriChain</h3>
       <div align="center">
         <a href="https://github.com/tokenomists/AgriChain">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzR5ZXVnbDdyZXUwN2h1c3o1dHBxYzNlcWR5M3g0Y3kzZXJxM3dvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="AgriChain Project"/>
+          <img src="https://github.com/user-attachments/assets/de006db0-5ce7-4b09-8e9c-d5a4b814c562" width="100%" alt="AgriChain Project"/>
         </a>
         <p>
           <a href="https://github.com/tokenomists/AgriChain">
