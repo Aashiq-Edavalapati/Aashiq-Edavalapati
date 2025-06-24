@@ -250,7 +250,6 @@ while(alive) {
 <div align="center">
   <img src="https://img.shields.io/badge/Google_Cybersecurity-Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity"/>
   <img src="https://img.shields.io/badge/Google_Cloud-Data_Analytics-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-  <img src="https://img.shields.io/badge/Harvard-CS50_AI_with_Python-A41034?style=for-the-badge&logo=edx&logoColor=white" alt="Harvard CS50"/>
 </div>
 
 ---
