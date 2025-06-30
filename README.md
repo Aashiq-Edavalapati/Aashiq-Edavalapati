@@ -1,277 +1,498 @@
 <div align="center">
-  
-  #  AASHIQ EDAVALAPATI 
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&height=70&lines=💻Computer+Science+Engineer💻;🪜Algorithms+Enthusiast🪜;🤖AI+Enthusiast🤖;⚡Professional+Problem+Solver⚡;📂Opensource+Contributor📂)](https://git.io/typing-svg)
-  
-  [![Email](https://img.shields.io/badge/Email-aashiqedavalapati58@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:aashiqedavalapati58@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aashiq_Edavalapati-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/aashiq-edavalapati-77b346289/)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-600+_Problems-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/Aashiq_Edavalapati/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-4285F4?logo=google-chrome&logoColor=white&style=for-the-badge)](https://aashiqedavalapati.vercel.app/)
-  
-  <img src="https://komarev.com/ghpvc/?username=Aashiq-Edavalapati&style=for-the-badge&color=6A5ACD" alt="Profile Views"/>
 
-  ### 🎓 **Computer Science & Engineering @ Amrita Vishwa Vidyapeetham**
+# AASHIQ EDAVALAPATI
+### 🚀 **AI Engineer | Full-Stack Architect | Problem-Solving Virtuoso**
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&height=70&lines=💻Computer+Science+Engineer💻;🪜Algorithms+Enthusiast🪜;🤖AI+Enthusiast🤖;⚡Professional+Problem+Solver⚡;📂Opensource+Contributor📂)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
+[![Email](https://img.shields.io/badge/📧_Contact-aashiqedavalapati58@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aashiqedavalapati58@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Professional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashiq-edavalapati-77b346289/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Experience_My_Work-6A5ACD?style=for-the-badge&logo=safari&logoColor=white)](https://aashiqedavalapati.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/⚔️_LeetCode-600+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aashiq_Edavalapati/)
+
+<img src="https://komarev.com/ghpvc/?username=Aashiq-Edavalapati&style=for-the-badge&color=00D4FF&label=PROFILE+VISITORS" alt="Profile Views"/>
 
 </div>
 
 ---
 
+## 📋 **TABLE OF CONTENTS**
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aashiq-Edavalapati&theme=nord&column=7&margin-w=15&margin-h=15" alt="trophy" />
+
+**[🎯 About Me](#-about-me) • [🏆 Key Achievements](#-key-achievements) • [🛠️ Tech Stack](#️-tech-stack) • [🚀 Featured Projects](#-featured-projects) • [📊 GitHub Analytics](#-github-analytics) • [🎓 Education](#-education) • [🌟 Open Source](#-open-source-contributions) • [📞 Contact](#-lets-connect)**
+
 </div>
 
-## 👨‍💻 WHO AM I?
+---
 
-I'm not just a coder – I'm a digital architect crafting the future.
+## 🎯 **ABOUT ME**
 
-```javascript
-const Aashiq = {
-  mission: "Building technology that transforms lives",
-  education: "Computer Science & Engineering at Amrita Vishwa Vidyapeetham",
-  expertise: ["Algorithms", "AI/ML", "Full-Stack Development", "Problem Solving"],
-  leetcodeStats: {
-    problemsSolved: "600+",
-    longestStreak: "125 days",
-    originalSolutionsUpvotes: "350+"
-  },
-  quote: "The code that changes the world is written by those crazy enough to think they can."
+> **Computer Science Engineer** passionate about creating **AI-powered solutions** that revolutionize how we interact with technology. I architect scalable systems, solve complex algorithmic challenges, and build intuitive user experiences that bridge the gap between human needs and technological possibilities.
+
+```typescript
+const aashiq = {
+  name: "Aashiq Edavalapati",
+  role: "AI Engineer & Full-Stack Developer",
+  location: "India 🇮🇳",
+  education: "Computer Science Engineering @ Amrita Vishwa Vidyapeetham",
+  gpa: "8.59/10 (Consistent Academic Excellence)",
+  
+  expertise: [
+    "🤖 Artificial Intelligence & Machine Learning",
+    "🌐 Full-Stack Web Development (MERN/Next.js)",
+    "📊 Data Science & Analytics (Google Cloud Certified)",
+    "⚡ Competitive Programming (600+ LeetCode Problems)"
+  ],
+
+  currentGPA: 8.59, // Consistent academic excellence
+  mission: "Engineering the future, one algorithm at a time",
+  availableFor: ["Full-time Opportunities", "Internships", "Open Source Collaboration"]
 };
 
-// The algorithm to success
-while(alive) {
-  learn();
-  build();
+// The Philosophy
+while (coding) {
+  innovate();
+  solve();
   inspire();
   repeat();
 }
 ```
 
----
-
-## 🔥 SKILL ARSENAL 
-
-<p align="center">  
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,go,c,html,css" />  
-</p>
-<p align="center">  
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,mysql,postgresql,git,github,linux" />  
-</p>
-<p align="center">  
-  <img src="https://skillicons.dev/icons?i=eclipse,vscode,bash,arduino,raspberrypi,haskell" />  
-</p>
-
-<div align="center">
-  
-  ### 💻 Core Specialties
-  ![Algorithms & Data Structures](https://img.shields.io/badge/Algorithms_&_Data_Structures-600+_Problems-5D4F85?style=for-the-badge)
-  ![AI & ML Applications](https://img.shields.io/badge/AI_&_ML-Building_Intelligent_Systems-FF6F00?style=for-the-badge)
-  ![Full-Stack Development](https://img.shields.io/badge/Full_Stack-End_to_End_Solutions-007ACC?style=for-the-badge)
-  
-</div>
+<!-- SEO Keywords -->
+<!-- Software Engineer, Full Stack Developer, AI Engineer, Machine Learning, React, Node.js, Python, JavaScript, LeetCode, Competitive Programming, Computer Science, Data Science, Google Cloud, Blockchain, Web Development, Algorithm, Problem Solving, MERN Stack, Next.js, Portfolio, GitHub, Open Source, Hackathon Winner -->
 
 ---
 
-## 📊 ANALYTICS & ACHIEVEMENTS
+## 🏆 **KEY ACHIEVEMENTS**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aashiq-Edavalapati&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aashiq-Edavalapati&theme=tokyonight&hide_border=true" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashiq-Edavalapati&layout=compact&theme=tokyonight&hide_border=true" />
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aashiq-Edavalapati&theme=react-dark&hide_border=true" width="100%" />
-</div>
 
-### 🏆 COMPETITIVE CODING
+### 🎖️ **RECOGNITION & AWARDS**
 
 <table>
   <tr>
-    <td>
-      <img src="https://leetcard.jacoblin.cool/Aashiq_Edavalapati?theme=dark&font=Sora&ext=contest" alt="LeetCode Stats" width="100%"/>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/external-justicon-flat-justicon/64/external-trophy-reward-and-badges-justicon-flat-justicon.png" width="48" alt="trophy"/>
+      <h4>🥉 HackBeyondLimits 2024</h4>
+      <p><strong>3rd Place Winner</strong><br/>AgriChain Blockchain Solution</p>
     </td>
-    <td>
-      <ul>
-        <li>🔥 <b>600+ Problems Solved</b></li>
-        <li>⏱️ <b>125-Day Streak</b></li>
-        <li>⭐ <b>300+ Solution Upvotes</b></li>
-      </ul>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/external-justicon-flat-justicon/64/external-medal-reward-and-badges-justicon-flat-justicon.png" width="48" alt="medal"/>
+      <h4>🌟 AWoC 2024</h4>
+      <p><strong>Elite Contributor</strong><br/>Multi-Project Excellence</p>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/external-justicon-flat-justicon/64/external-rank-reward-and-badges-justicon-flat-justicon.png" width="48" alt="rank"/>
+      <h4>⚔️ LeetCode Master</h4>
+      <p><strong>Top 90K Globally</strong><br/>600+ Problems Solved</p>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/external-justicon-flat-justicon/64/external-certificate-reward-and-badges-justicon-flat-justicon.png" width="48" alt="certificate"/>
+      <h4>📜 Google Certified</h4>
+      <p><strong>Cloud Data Analytics</strong><br/>Professional Certificate</p>
     </td>
   </tr>
 </table>
 
+### 📈 **PERFORMANCE METRICS**
+
+![Academic Excellence](https://img.shields.io/badge/🎓_Academic_GPA-8.59/10-success?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/⚡_Problems_Solved-600+-important?style=for-the-badge)
+![Max Streak](https://img.shields.io/badge/🔥_Max_Streak-125_Days-orange?style=for-the-badge)
+![Global Rank](https://img.shields.io/badge/🌍_Global_Rank-Top_90K-blue?style=for-the-badge)
+![Solution Upvotes](https://img.shields.io/badge/👍_Solution_Upvotes-350+-brightgreen?style=for-the-badge)
+
+</div>
+
 ---
 
-## 🚀 PROJECTS
+<div align="center">
+
+## 🏆 **COMPETITIVE CODING DOMINANCE**
+
+<img src="https://leetcard.jacoblin.cool/Aashiq_Edavalapati?theme=nord&font=source_code_pro&ext=contest" width="500"/>
+
+### 💥 **CRUSHING THE NUMBERS**
+![Problems Solved](https://img.shields.io/badge/Problems_Solved-600+-00FF87?style=for-the-badge&logo=checkmarx)
+![Max Streak](https://img.shields.io/badge/Max_Streak-125_Days-FF6B6B?style=for-the-badge&logo=fire)
+![Solution Upvotes](https://img.shields.io/badge/Solution_Upvotes-350+-FFD93D?style=for-the-badge&logo=thumbs-up)
+![Global Ranking](https://img.shields.io/badge/Global_Rank-Top_90K-6BCF7F?style=for-the-badge&logo=trophy)
+
+</div>
+
+---
+
+## 🛠️ **TECH STACK**
+
+<div align="center">
+
+### 💻 **PROGRAMMING LANGUAGES**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,java,go,haskell&perline=8" />
+</p>
+
+### 🔧 **FRAMEWORKS & LIBRARIES**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql&perline=8" />
+</p>
+
+### 🌐 **TOOLS & PLATFORMS**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,gcp,vercel,eclipse,vite&perline=8" />
+</p>
+
+### 🎯 **SPECIALIZED DOMAINS**
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/external-justicon-flat-justicon/64/external-artificial-intelligence-data-science-justicon-flat-justicon.png" width="48"/>
+      <h4>🤖 AI & ML</h4>
+      <p>Intelligent Systems<br/>Neural Networks<br/>Data Mining</p>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/external-justicon-flat-justicon/64/external-web-development-responsive-web-design-justicon-flat-justicon.png" width="48"/>
+      <h4>🌐 Full-Stack</h4>
+      <p>MERN Architecture<br/>RESTful APIs<br/>Responsive Design</p>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/external-justicon-flat-justicon/64/external-analytics-data-science-justicon-flat-justicon.png" width="48"/>
+      <h4>📊 Data Science</h4>
+      <p>BigQuery Analytics<br/>Statistical Modeling<br/>Data Visualization</p>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/external-justicon-flat-justicon/64/external-algorithm-data-science-justicon-flat-justicon.png" width="48"/>
+      <h4>⚡ Algorithms</h4>
+      <p>Competitive Programming<br/>System Design<br/>Optimization</p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🚀 **FEATURED PROJECTS**
+
+<div align="center">
+
+### 🌟 **FLAGSHIP DEVELOPMENTS**
+
+</div>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 Gradia</h3>
       <div align="center">
+        <h3>🤖 <strong>Gradia</strong> - AI Education Revolution</h3>
         <a href="https://github.com/tokenomists/Gradia">
-          <img src="https://github.com/user-attachments/assets/8c582995-3033-41c6-bb01-cb69a920423f" width="100%" alt="Gradia Project"/>
+          <img src="https://github.com/user-attachments/assets/8c582995-3033-41c6-bb01-cb69a920423f" width="100%" alt="Gradia"/>
         </a>
-        <p>
-          <a href="https://github.com/tokenomists/Gradia">
-            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <a href="https://gradia-tokenomists.vercel.app/">
-            <img src="https://img.shields.io/badge/Live-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-          </a>
+        <br/><br/>
+        <a href="https://github.com/tokenomists/Gradia">
+          <img src="https://img.shields.io/badge/📋_README-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://gradia-tokenomists.vercel.app/">
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-Experience_Now-00D4FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
+        <br/><br/>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/AI-FF6B35?style=flat&logo=openai&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
         </p>
-        <p><strong>Next.js, Node.js, Express.js, Python, AI</strong> - AI-powered platform for automated answer grading, coding test evaluation, and performance analytics.></p>
       </div>
+      <h4>🎯 Revolutionary Impact:</h4>
+      <p>
+        ▸ <strong>AI-Powered Grading System:</strong> Automated evaluation with contextual understanding<br/>
+        ▸ <strong>Intelligent Code Analysis:</strong> Real-time feedback and optimization suggestions<br/>
+        ▸ <strong>Performance Analytics:</strong> Comprehensive learning insights and progress tracking<br/>
+        ▸ <strong>Scalable Architecture:</strong> Built for institutional deployment and high-volume usage
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌾 AgriChain</h3>
       <div align="center">
+        <h3>🌾 <strong>AgriChain</strong> - Blockchain Agriculture</h3>
         <a href="https://github.com/tokenomists/AgriChain">
-          <img src="https://github.com/user-attachments/assets/de006db0-5ce7-4b09-8e9c-d5a4b814c562" width="100%" alt="AgriChain Project"/>
+          <img src="https://github.com/user-attachments/assets/de006db0-5ce7-4b09-8e9c-d5a4b814c562" width="100%" alt="AgriChain"/>
         </a>
-        <p>
-          <a href="https://github.com/tokenomists/AgriChain">
-            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
+        <br/><br/>
+        <a href="https://github.com/tokenomists/AgriChain">
+          <img src="https://img.shields.io/badge/📋_README-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <img src="https://img.shields.io/badge/🏆_Award_Winner-3rd_Place-FFD700?style=for-the-badge&logo=trophy&logoColor=black"/>
+        <br/><br/>
+        <p align="center">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
         </p>
-        <p><strong>React.js, Express.js, Node.js, PostgreSQL, Ethereum</strong> - Blockchain-powered agriculture supply chain solution that enhances transparency and efficiency. 🏆 <i>3rd place at Hack Beyond Limits 2024</i></p>
       </div>
+      <h4>🏆 Hackathon Victory:</h4>
+      <p>
+        ▸ <strong>Blockchain Transparency:</strong> Immutable supply chain tracking from farm to table<br/>
+        ▸ <strong>Smart Contracts:</strong> Automated farmer payments and quality assurance protocols<br/>
+        ▸ <strong>Food Safety Assurance:</strong> Real-time contamination detection and alert systems<br/>
+        ▸ <strong>Market Integration:</strong> Direct farmer-to-consumer marketplace with verified quality
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">☁️ Google Cloud Data Analytics Capstone Project</h3>
       <div align="center">
+        <h3>☁️ <strong>Google Cloud Analytics Capstone</strong></h3>
         <a href="https://github.com/Aashiq-Edavalapati/google-cloud-data-analytics-capstone">
-          <img src="https://github.com/Aashiq-Edavalapati/google-cloud-data-analytics-capstone/blob/main/Part%202%20-%20Analyze%20and%20activate%20your%20data%20with%20Looker%20Enterprise/screenshots/9_Top%2010%20Customers%20by%20Highest%20Income.png?raw=true" width="100%" alt="Google Capstone Project"/>
+          <img src="https://github.com/Aashiq-Edavalapati/google-cloud-data-analytics-capstone/blob/main/Part%202%20-%20Analyze%20and%20activate%20your%20data%20with%20Looker%20Enterprise/screenshots/9_Top%2010%20Customers%20by%20Highest%20Income.png?raw=true" width="100%" alt="Google Capstone"/>
         </a>
-        <p>
-          <a href="https://github.com/Aashiq-Edavalapati/google-cloud-data-analytics-capstone">
-            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
+        <br/><br/>
+        <a href="https://github.com/Aashiq-Edavalapati/google-cloud-data-analytics-capstone">
+          <img src="https://img.shields.io/badge/📋_README-Case_Study-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <img src="https://img.shields.io/badge/📜_Certified-Google_Professional-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+        <br/><br/>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white"/>
+          <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=google-bigquery&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Looker-4285F4?style=flat&logo=looker&logoColor=white"/>
+          <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white"/>
         </p>
-        <p><strong>GCP, BigQuery, Looker</strong> - A real-world capstone project simulating a cloud data analyst role at a FinTech startup. I designed a dashboard and executive summary report for the Treasury team to monitor loan health, performance, and growth using BigQuery and Looker. This included data ingestion, transformation, dashboard design, and insight generation.</p>
       </div>
+      <h4>📊 Professional Simulation:</h4>
+      <p>
+        ▸ <strong>Executive Dashboards:</strong> C-suite ready financial analytics and KPI monitoring<br/>
+        ▸ <strong>Data Pipeline Architecture:</strong> ETL processes handling millions of financial records<br/>
+        ▸ <strong>Predictive Modeling:</strong> Loan portfolio risk assessment and optimization strategies<br/>
+        ▸ <strong>Real-world Application:</strong> Simulated FinTech Treasury team data analyst role
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎨 Portfolio Website</h3>
       <div align="center">
+        <h3>🎨 <strong>Portfolio</strong></h3>
         <a href="https://aashiqedavalapati.vercel.app/">
-          <img src="https://private-user-images.githubusercontent.com/146023771/457504703-213f1011-c0d5-445c-a765-feacac5d7f6b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA0NTIzMTksIm5iZiI6MTc1MDQ1MjAxOSwicGF0aCI6Ii8xNDYwMjM3NzEvNDU3NTA0NzAzLTIxM2YxMDExLWMwZDUtNDQ1Yy1hNzY1LWZlYWNhYzVkN2Y2Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYyMFQyMDQwMTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yM2RkM2U4N2ZlY2QyNGMwNTU1NTAzMTk2ODJiYzJmZjBiNWJkODU0MWI4YzkwZjdiZTU1ZWYzNzVjNGNkMjFkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.CXDUXnRGJrD6BXWqXM6EzGLzBDBi0DBUraF9zsKh3ek" width="100%" alt="Portfolio Website"/>
+          <img src="https://private-user-images.githubusercontent.com/146023771/457504703-213f1011-c0d5-445c-a765-feacac5d7f6b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA0NTIzMTksIm5iZiI6MTc1MDQ1MjAxOSwicGF0aCI6Ii8xNDYwMjM3NzEvNDU3NTA0NzAzLTIxM2YxMDExLWMwZDUtNDQ1Yy1hNzY1LWZlYWNhYzVkN2Y2Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYyMFQyMDQwMTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yM2RkM2U4N2ZlY2QyNGMwNTU1NTAzMTk2ODJiYzJmZjBiNWJkODU0MWI4YzkwZjdiZTU1ZWYzNzVjNGNkMjFkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.CXDUXnRGJrD6BXWqXM6EzGLzBDBi0DBUraF9zsKh3ek" width="100%" alt="Portfolio"/>
         </a>
-        <p>
-          <a href="https://github.com/Aashiq-Edavalapati/My_Portfolio.git">
-            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <a href="https://aashiqedavalapati.vercel.app/">
-            <img src="https://img.shields.io/badge/Live-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-          </a>
+        <br/><br/>
+        <a href="https://github.com/Aashiq-Edavalapati/My_Portfolio.git">
+          <img src="https://img.shields.io/badge/📋_README-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://aashiqedavalapati.vercel.app/">
+          <img src="https://img.shields.io/badge/🌐_Live_Site-Visit_Now-FF6B6B?style=for-the-badge&logo=safari&logoColor=white"/>
+        </a>
+        <br/><br/>
+        <p align="center">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
         </p>
-        <p><strong>React.js, CSS, Node.js</strong> - Professional showcase featuring fully responsive design, interactive UI with smooth animations, and comprehensive project gallery with live demos.</p>
       </div>
+      <h4>✨ Design Excellence:</h4>
+      <p>
+        ▸ <strong>Interactive Storytelling:</strong> Engaging narrative with smooth animations and transitions<br/>
+        ▸ <strong>Responsive Mastery:</strong> Pixel-perfect design across all devices and screen sizes<br/>
+        ▸ <strong>Performance Optimized:</strong> Fast loading times with modern web optimization techniques<br/>
+        ▸ <strong>Professional Showcase:</strong> Complete demonstration of technical and creative capabilities
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 Link-Us</h3>
+      <h3 align="center">🤖 <strong>Link-Us</strong> - AI Social Intelligence</h3>
       <div align="center">
         <a href="https://github.com/adithya-menon-r/Link-Us.git">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBjbm4yZGRzcWt2eGx4ZWh5MG9nc3VsaXFkbXdscXRuNW5zNndidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPic2BnoVZkRVSM/giphy.gif" width="100%" alt="Link-Us Project"/>
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBjbm4yZGRzcWt2eGx4ZWh5MG9nc3VsaXFkbXdscXRuNW5zNndidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPic2BnoVZkRVSM/giphy.gif" width="100%" alt="Link-Us"/>
         </a>
-        <p>
-          <a href="https://github.com/adithya-menon-r/Link-Us.git">
-            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>Python, Priority Queue, Max Heap</strong> - AI-powered social connection platform with multi-factor recommendation engine. Advanced algorithm balancing social, interest, and geographic factors.</p>
+        <br><br>
+        <a href="https://github.com/adithya-menon-r/Link-Us.git">
+          <img src="https://img.shields.io/badge/🔗_Algorithm_Magic-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <br><br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI-FF6B35?style=flat&logo=brain&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Algorithms-4ECDC4?style=flat&logo=algorithm&logoColor=white"/>
+        <br><br>
+        <p><strong>🧠 AI Innovation:</strong> Engineered sophisticated social connection platform with multi-factor recommendation engine. Advanced algorithms balance social dynamics, interests, and geographic factors for optimal matching.</p>
       </div>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🚗 LuxeRideRentals</h3>
+    <td>
+      <h3 align="center">📚 <strong>LMS Platform</strong> - Intel IoT Club Leadership</h3>
       <div align="center">
-        <a href="https://github.com/Aashiq-Edavalapati/Car-Rental-Website.git">
-          <img src="https://private-user-images.githubusercontent.com/146023771/415029983-84671b70-8890-468f-9f0d-a5ad19019d11.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA0NTIxMzUsIm5iZiI6MTc1MDQ1MTgzNSwicGF0aCI6Ii8xNDYwMjM3NzEvNDE1MDI5OTgzLTg0NjcxYjcwLTg4OTAtNDY4Zi05ZjBkLWE1YWQxOTAxOWQxMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYyMFQyMDM3MTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yYjg1MDY1NjNhYTEzMjUyZmU0ZTFiNzdiNTZmMzJhNmJjNGRlYWFlNDEzYTNhOTc2MjI0YjU5OTZjZmFhZDYyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.VWkLPh-MexMKZl6b-2RXyIew8C0-qESIiWQZBRwYF7g" width="100%" alt="LuxeRideRentals Project"/>
-        </a>
-        <p>
-          <a href="https://github.com/Aashiq-Edavalapati/Car-Rental-Website.git">
-            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>HTML, CSS, JavaScript, Node.js, Electron</strong> - Modern car rental platform with secure authentication, dynamic pricing engine based on demand, and interactive UI with real-time updates.</p>
+        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="LMS Development"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/🏢_Intel_IoT_Club-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white"/>
+        <br><br>
+        <p><strong>🎖️ Leadership Role:</strong> Led development of comprehensive Learning Management System for Intel IoT Club. Architected scalable MERN solution with cloud-based resource storage, serving the entire club community.</p>
       </div>
     </td>
   </tr>
 </table>
 
----
-
-## 🏅 HONORS & ACHIEVEMENTS
-
 <div align="center">
-  
-  <a href="#">
-    <img width="140" src="https://img.shields.io/badge/HackBeyondLimits-3rd_Place-FF5733?style=for-the-badge" alt="HackBeyondLimits 2024"/>
-  </a>
-  <a href="#">
-    <img width="185" src="https://img.shields.io/badge/AWoC_2024-Contributor-7B68EE?style=for-the-badge" alt="Amrita Winter of Code 2024"/>
-  </a>
-  <a href="#">
-    <img width="140" src="https://img.shields.io/badge/LeetCode-600+_Problems-FFA116?style=for-the-badge" alt="LeetCode"/>
-  </a>
-  <a href="#">
-    <img width="160" src="https://img.shields.io/badge/Anokha_2024-Student_Volunteer-00CED1?style=for-the-badge" alt="Anokha 2024"/>
-  </a>
 
-</div>
+### 🔍 **EXPLORE ALL PROJECTS**
 
-- 🥉 **HackBeyondLimits 2024 - 3rd Place Winner**
-  - Created AgriChain, revolutionizing agricultural supply chains with blockchain
-  - Solution highlighted for real-world implementation potential
+[![All Repositories](https://img.shields.io/badge/🗂️_View_All_Repositories-Discover_More_Innovation-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aashiq-Edavalapati?tab=repositories)
 
-- 💻 **Amrita Winter of Code 2024 - Key Contributor**
-  - Implemented Dash Table in Go from scratch
-  - Enhanced Leaderboard UI with advanced filtering capabilities
-
-- 📊 **LeetCode Achievements**
-  - Ranked in top 90,000 world wide
-  - 125-day consistent streak demonstrating discipline and commitment
-  - Overall of 350+ solution upvotes
-
-- 🎤 **Anokha 2024 - Tech Leadership**
-  - Volunteered as a student volunteer
-  - Organized hands-on workshop on Generative AI attended by 150+ students
-  - Managed event logistics with attendee satisfaction.
-  - Clarified doubts of the attended students.
-
----
-
-## 📜 CERTIFICATIONS & EDUCATION
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Google_Cybersecurity-Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-Data_Analytics-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
 </div>
 
 ---
 
-## 🔮 FUTURE VISION
+## 📊 **GITHUB ANALYTICS**
 
-```
-"I'm not just building software; I'm architecting solutions that bridge technology gaps
-and create tangible impact. My goal is to develop AI systems that augment human potential
-applications that makes our lives easier."
-```
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aashiq-Edavalapati&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aashiq-Edavalapati&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF6B6B&fire=FFD93D&currStreakLabel=00D4FF" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashiq-Edavalapati&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" width="45%" />
+
+<!-- <img src="https://leetcard.jacoblin.cool/Aashiq_Edavalapati?theme=nord&font=source_code_pro&ext=contest" width="45%" /> -->
+
+</div>
 
 ---
 
+## 🎓 **EDUCATION**
+
 <div align="center">
-  
-  ## 🤝 LET'S BUILD SOMETHING AMAZING
 
-  [![GitHub](https://img.shields.io/badge/Explore_My_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aashiq-Edavalapati?tab=repositories)
-  [![Email](https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aashiqedavalapati58@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/Connect_On_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashiq-edavalapati-77b346289/)
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/external-justicon-flat-justicon/64/external-graduation-education-justicon-flat-justicon.png" width="64"/>
+      <h3>🎓 B.Tech Computer Science</h3>
+      <p><strong>Amrita Vishwa Vidyapeetham</strong></p>
+      <p>2022 - 2026</p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/external-justicon-flat-justicon/64/external-grade-education-justicon-flat-justicon.png" width="64"/>
+      <h3>📊 Academic Performance</h3>
+      <p><strong>CGPA: 8.59/10</strong></p>
+      <p>Consistent Excellence</p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/external-justicon-flat-justicon/64/external-trend-business-and-finance-justicon-flat-justicon.png" width="64"/>
+      <h3>📈 Growth Trajectory</h3>
+      <p><strong>+0.62 GPA Improvement</strong></p>
+      <p>Sem 1: 8.43 → Sem 2: 9.05</p>
+    </td>
+  </tr>
+</table>
 
-  <a href="https://github.com/Aashiq-Edavalapati"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=90" width="100%"/></a>
+### 📜 **PROFESSIONAL CERTIFICATIONS**
+
+![Google Cloud](https://img.shields.io/badge/☁️_Google_Cloud_Data_Analytics-Professional_Certificate-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Google Cybersecurity](https://img.shields.io/badge/🔒_Google_Cybersecurity-Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+</div>
+
+---
+
+## 🌟 **OPEN SOURCE CONTRIBUTIONS**
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.icons8.com/external-justicon-flat-justicon/96/external-open-source-data-science-justicon-flat-justicon.png" width="80"/>
+      <h3>🏆 Amrita Winter of Code 2024</h3>
+      <p><strong>Elite Contributor Recognition</strong></p>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.icons8.com/external-justicon-flat-justicon/96/external-community-teamwork-justicon-flat-justicon.png" width="80"/>
+      <h3>👥 Community Impact</h3>
+      <p><strong>Multiple Project Contributions</strong></p>
+    </td>
+  </tr>
+</table>
+
+### 🛠️ **CONTRIBUTION HIGHLIGHTS**
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h4>🌐 AWoC Website</h4>
+      <p>Enhanced user experience and interface design for the main event platform</p>
+    </td>
+    <td align="center" width="33%">
+      <h4>📊 DashTable (Go)</h4>
+      <p>Built comprehensive data visualization tool from scratch with advanced features</p>
+    </td>
+    <td align="center" width="33%">
+      <h4>🏆 Leaderboard System</h4>
+      <p>Developed advanced filtering, sorting, and ranking capabilities</p>
+    </td>
+  </tr>
+</table>
+
+![Open Source](https://img.shields.io/badge/🌟_Open_Source_Advocate-Empowering_Innovation-FF6B35?style=for-the-badge)
+![Community](https://img.shields.io/badge/👥_Community_Builder-Fostering_Collaboration-4ECDC4?style=for-the-badge)
+
+</div>
+
+---
+
+## 🤝 **LET'S CONNECT**
+
+<div align="center">
+
+### 🚀 **READY TO COLLABORATE?**
+
+<p>Whether you're looking for an innovative problem-solver, AI enthusiast, or full-stack architect who transforms ideas into impactful solutions—let's build something extraordinary together.</p>
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="mailto:aashiqedavalapati58@gmail.com">
+        <img src="https://img.icons8.com/external-justicon-flat-justicon/64/external-email-social-media-justicon-flat-justicon.png" width="48"/>
+        <h4>📧 Email</h4>
+        <p>Professional Inquiries</p>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.linkedin.com/in/aashiq-edavalapati-77b346289/">
+        <img src="https://img.icons8.com/external-justicon-flat-justicon/64/external-linkedin-social-media-justicon-flat-justicon.png" width="48"/>
+        <h4>💼 LinkedIn</h4>
+        <p>Professional Network</p>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://aashiqedavalapati.vercel.app/">
+        <img src="https://img.icons8.com/external-justicon-flat-justicon/64/external-portfolio-graphic-design-justicon-flat-justicon.png" width="48"/>
+        <h4>🌐 Portfolio</h4>
+        <p>Complete Showcase</p>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/Aashiq-Edavalapati">
+        <img src="https://img.icons8.com/external-justicon-flat-justicon/64/external-github-social-media-justicon-flat-justicon.png" width="48"/>
+        <h4>👨‍💻 GitHub</h4>
+        <p>Code Repository</p>
+      </a>
+    </td>
+  </tr>
+</table>
+
+[![Email](https://img.shields.io/badge/📧_Let's_Connect-Professional_Inquiries-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aashiqedavalapati58@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/🤝_Professional_Network-Connect_Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashiq-edavalapati-77b346289/)
+[![Portfolio](https://img.shields.io/badge/🌟_Experience_My_Work-Visit_Portfolio-6A5ACD?style=for-the-badge&logo=safari&logoColor=white)](https://aashiqedavalapati.vercel.app/)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+### *"The best way to predict the future is to invent it." - Alan Kay*
 
 </div>
