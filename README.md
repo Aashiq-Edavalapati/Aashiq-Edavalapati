@@ -324,7 +324,9 @@ while (coding) {
       <div align="center">
         <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="LMS Development"/>
         <br><br>
-        <img src="https://img.shields.io/badge/🏢_Intel_IoT_Club-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
+        <a href="https://www.inteliotclub.site/">
+          <img src="https://img.shields.io/badge/🏢_Intel_IoT_Club-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
+        </a>
         <br><br>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
