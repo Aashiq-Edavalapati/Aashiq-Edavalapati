@@ -85,7 +85,7 @@ while (coding) {
       <p><strong>Elite Contributor</strong><br/>Multi-Project Excellence</p>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/external-justicon-flat-justicon/64/external-rank-reward-and-badges-justicon-flat-justicon.png" width="48" alt="rank"/>
+      <img src="https://img.icons8.com/?size=100&id=O713QAUVtMnH&format=png&color=000000" width="48" alt="rank"/>
       <h4>⚔️ LeetCode Master</h4>
       <p><strong>Top 90K Globally</strong><br/>600+ Problems Solved</p>
     </td>
@@ -149,7 +149,7 @@ while (coding) {
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/external-justicon-flat-justicon/64/external-artificial-intelligence-data-science-justicon-flat-justicon.png" width="48"/>
+      <img src="https://img.icons8.com/ios-filled/50/artificial-intelligence.png" width="48"/>
       <h4>🤖 AI & ML</h4>
       <p>Intelligent Systems<br/>Neural Networks<br/>Data Mining</p>
     </td>
