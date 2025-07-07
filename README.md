@@ -357,7 +357,7 @@ while (coding) {
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aashiq-Edavalapati&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" />
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aashiq-Edavalapati&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF6B6B&fire=FFD93D&currStreakLabel=00D4FF" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashiq-Edavalapati&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" width="45%" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aashiq-Edavalapati&layout=compact&theme=radical)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Aashiq-Edavalapati&theme=dracula)](https://github.com/Aashiq-Edavalapati/github-profile-trophy)
 
