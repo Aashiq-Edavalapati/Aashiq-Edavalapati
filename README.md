@@ -359,7 +359,7 @@ while (coding) {
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashiq-Edavalapati&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" width="45%" />
 
-<!-- <img src="https://leetcard.jacoblin.cool/Aashiq_Edavalapati?theme=nord&font=source_code_pro&ext=contest" width="45%" /> -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aashiq-Edavalapati&theme=dracula)](https://github.com/Aashiq-Edavalapati/github-profile-trophy)
 
 </div>
 
