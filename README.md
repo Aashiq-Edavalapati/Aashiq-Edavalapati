@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 # AASHIQ EDAVALAPATI
 ### 🚀 **AI Engineer | Full-Stack Architect | Problem-Solving Virtuoso**
