@@ -77,7 +77,7 @@ while (coding) {
     <td align="center" width="25%">
       <img src="https://img.icons8.com/external-justicon-flat-justicon/64/external-trophy-reward-and-badges-justicon-flat-justicon.png" width="48" alt="trophy"/>
       <h4>🥉 HackBeyondLimits 2024</h4>
-      <p><strong>3rd Place Winner</strong><br/>AgriChain Blockchain Solution</p>
+      <p><strong>3rd Place Winner</strong><br/>AgriChain</p>
     </td>
     <td align="center" width="25%">
       <img src="https://img.icons8.com/external-justicon-flat-justicon/64/external-medal-reward-and-badges-justicon-flat-justicon.png" width="48" alt="medal"/>
