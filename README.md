@@ -1,7 +1,7 @@
 <div align="center"> 
 
 # AASHIQ EDAVALAPATI
-### 🚀 **AI Engineer | Full-Stack Architect | Problem-Solving Virtuoso**
+### 🚀 **AI Engineer | Full-Stack Architect | Problem-Solver**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&height=70&lines=💻Computer+Science+Engineer💻;🪜Algorithms+Enthusiast🪜;🤖AI+Enthusiast🤖;⚡Professional+Problem+Solver⚡;📂Opensource+Contributor📂)](https://git.io/typing-svg)
 
