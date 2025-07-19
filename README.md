@@ -30,7 +30,7 @@
 
 ## 🎯 **ABOUT ME**
 
-> **Computer Science Engineer** passionate about creating **AI-powered solutions** that revolutionize how we interact with technology. I architect scalable systems, solve complex algorithmic challenges, and build intuitive user experiences that bridge the gap between human needs and technological possibilities.
+> **Computer Science Engineer** passionate about creating **AI-powered solutions** that revolutionize how we interact with technology. I architect scalable systems and solve complex algorithmic challenges that bridge the gap between human needs and technological possibilities.
 
 ```typescript
 const aashiq = {
