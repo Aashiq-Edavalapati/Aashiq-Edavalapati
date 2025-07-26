@@ -141,7 +141,7 @@ while (coding) {
 
 ### 🌐 **TOOLS & PLATFORMS**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,gcp,vercel,eclipse,vite&perline=8" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,gcp,vercel,eclipse,vite&perline=8" />
 </p>
 
 ### 🎯 **SPECIALIZED DOMAINS**
