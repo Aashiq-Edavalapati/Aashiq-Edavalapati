@@ -370,19 +370,19 @@ while (coding) {
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/external-justicon-flat-justicon/64/external-graduation-education-justicon-flat-justicon.png" width="64"/>
+      <img src="https://img.icons8.com/?size=100&id=XVdLRePLrKeo&format=png&color=000000" width="64"/>
       <h3>🎓 B.Tech Computer Science</h3>
       <p><strong>Amrita Vishwa Vidyapeetham</strong></p>
       <p>2022 - 2026</p>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/external-justicon-flat-justicon/64/external-grade-education-justicon-flat-justicon.png" width="64"/>
+      <img src="https://img.icons8.com/?size=100&id=a6dmGwkzqrCS&format=png&color=000000" width="64"/>
       <h3>📊 Academic Performance</h3>
       <p><strong>CGPA: 8.59/10</strong></p>
       <p>Consistent Excellence</p>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/external-justicon-flat-justicon/64/external-trend-business-and-finance-justicon-flat-justicon.png" width="64"/>
+      <img src="https://img.icons8.com/?size=100&id=XZmFVjcm19rX&format=png&color=FFFFFF" width="64"/>
       <h3>📈 Growth Trajectory</h3>
       <p><strong>+0.62 GPA Improvement</strong></p>
       <p>Sem 1: 8.43 → Sem 2: 9.05</p>
@@ -456,7 +456,7 @@ while (coding) {
   <tr>
     <td align="center" width="25%">
       <a href="mailto:aashiqedavalapati58@gmail.com">
-        <img src="https://img.icons8.com/external-justicon-flat-justicon/64/external-email-social-media-justicon-flat-justicon.png" width="48"/>
+        <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" width="48"/>
         <h4>📧 Email</h4>
         <p>Professional Inquiries</p>
       </a>
@@ -470,14 +470,14 @@ while (coding) {
     </td>
     <td align="center" width="25%">
       <a href="https://aashiqedavalapati.vercel.app/">
-        <img src="https://img.icons8.com/external-justicon-flat-justicon/64/external-portfolio-graphic-design-justicon-flat-justicon.png" width="48"/>
+        <img src="https://img.icons8.com/?size=100&id=UuZbMO5c0AHj&format=png&color=000000" width="48"/>
         <h4>🌐 Portfolio</h4>
         <p>Complete Showcase</p>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/Aashiq-Edavalapati">
-        <img src="https://img.icons8.com/external-justicon-flat-justicon/64/external-github-social-media-justicon-flat-justicon.png" width="48"/>
+        <img src="https://img.icons8.com/?size=100&id=efFfwotdkiU5&format=png&color=000000" width="48"/>
         <h4>👨‍💻 GitHub</h4>
         <p>Code Repository</p>
       </a>
