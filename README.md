@@ -12,8 +12,6 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Experience_My_Work-6A5ACD?style=for-the-badge&logo=safari&logoColor=white)](https://aashiqedavalapati.vercel.app/)
 [![LeetCode](https://img.shields.io/badge/⚔️_LeetCode-600+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aashiq_Edavalapati/)
 
-<img src="https://komarev.com/ghpvc/?username=Aashiq-Edavalapati&style=for-the-badge&color=00D4FF&label=PROFILE+VISITORS" alt="Profile Views"/>
-
 </div>
 
 ---
