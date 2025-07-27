@@ -142,35 +142,6 @@ while (coding) {
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,gcp,vercel,eclipse,vite&perline=8" />
 </p>
 
-### 🎯 **SPECIALIZED DOMAINS**
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/ios-filled/50/artificial-intelligence.png" width="48"/>
-      <h4>🤖 AI & ML</h4>
-      <p>Intelligent Systems<br/>Neural Networks<br/>Data Mining</p>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/external-justicon-flat-justicon/64/external-web-development-responsive-web-design-justicon-flat-justicon.png" width="48"/>
-      <h4>🌐 Full-Stack</h4>
-      <p>MERN Architecture<br/>RESTful APIs<br/>Responsive Design</p>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/external-justicon-flat-justicon/64/external-analytics-data-science-justicon-flat-justicon.png" width="48"/>
-      <h4>📊 Data Science</h4>
-      <p>BigQuery Analytics<br/>Statistical Modeling<br/>Data Visualization</p>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/external-justicon-flat-justicon/64/external-algorithm-data-science-justicon-flat-justicon.png" width="48"/>
-      <h4>⚡ Algorithms</h4>
-      <p>Competitive Programming<br/>System Design<br/>Optimization</p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
 ---
 
 ## 🚀 **FEATURED PROJECTS**
