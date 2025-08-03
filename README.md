@@ -271,7 +271,7 @@ while (coding) {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 <strong>Link-Us</strong> - AI Social Intelligence</h3>
+      <h3 align="center">🤖 <strong>Link-Us</strong> Social Networking</h3>
       <div align="center">
         <a href="https://github.com/adithya-menon-r/Link-Us.git">
           <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBjbm4yZGRzcWt2eGx4ZWh5MG9nc3VsaXFkbXdscXRuNW5zNndidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPic2BnoVZkRVSM/giphy.gif" width="100%" alt="Link-Us"/>
@@ -285,7 +285,7 @@ while (coding) {
         <img src="https://img.shields.io/badge/AI-FF6B35?style=flat&logo=brain&logoColor=white"/>
         <img src="https://img.shields.io/badge/Algorithms-4ECDC4?style=flat&logo=algorithm&logoColor=white"/>
         <br><br>
-        <p><strong>🧠 AI Innovation:</strong> Engineered sophisticated social connection platform with multi-factor recommendation engine. Advanced algorithms balance social dynamics, interests, and geographic factors for optimal matching.</p>
+        <p> Engineered sophisticated social connection platform with multi-factor recommendation engine. Advanced algorithms balance social dynamics, interests, and geographic factors for optimal matching.</p>
       </div>
     </td>
     <td>
