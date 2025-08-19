@@ -39,14 +39,14 @@ const aashiq = {
   gpa: "8.59/10 (Consistent Academic Excellence)",
   
   expertise: [
-    "🤖 Artificial Intelligence & Machine Learning",
     "🌐 Full-Stack Web Development (MERN/Next.js)",
-    "📊 Data Science & Analytics (Google Cloud Certified)",
-    "⚡ Competitive Programming (600+ LeetCode Problems)"
+    "📊 Data Analytics (Google Cloud Certified)",
+    "⚡ Problem Solving (600+ LeetCode Problems)"
+    "🤖 Artificial Intelligence & Machine Learning (Datacamp Certified)",
   ],
 
   currentGPA: 8.59, // Consistent academic excellence
-  mission: "Engineering the future, one algorithm at a time",
+  mission: "Engineering the future",
   availableFor: ["Full-time Opportunities", "Internships", "Open Source Collaboration"]
 };
 
@@ -58,9 +58,6 @@ while (coding) {
   repeat();
 }
 ```
-
-<!-- SEO Keywords -->
-<!-- Software Engineer, Full Stack Developer, AI Engineer, Machine Learning, React, Node.js, Python, JavaScript, LeetCode, Competitive Programming, Computer Science, Data Science, Google Cloud, Blockchain, Web Development, Algorithm, Problem Solving, MERN Stack, Next.js, Portfolio, GitHub, Open Source, Hackathon Winner -->
 
 ---
 
