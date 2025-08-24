@@ -240,7 +240,7 @@ while (coding) {
       <div align="center">
         <h3>🎨 <strong>Portfolio</strong></h3>
         <a href="https://aashiqedavalapati.vercel.app/">
-          <img src="https://private-user-images.githubusercontent.com/146023771/457504703-213f1011-c0d5-445c-a765-feacac5d7f6b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE5MTI3OTIsIm5iZiI6MTc1MTkxMjQ5MiwicGF0aCI6Ii8xNDYwMjM3NzEvNDU3NTA0NzAzLTIxM2YxMDExLWMwZDUtNDQ1Yy1hNzY1LWZlYWNhYzVkN2Y2Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcwN1QxODIxMzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03YWUyNDllYjkyOGEwNWZkYTQyMWIwYzllMWMzNzA1NmNkYTk2ODg1NGIzOWI5ODFjMjM2MTljZGJjYmEwNjQ5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.qCGBze9l6HlcD5ikUCUY3CVR4G2_Ok3dE0xtg_T1D0Q" width="100%" alt="Portfolio"/>
+          <img src="https://github.com/user-attachments/assets/bcf02805-7a8a-4b78-a246-310f47892aa3" width="100%" alt="Portfolio"/>
         </a>
         <br/><br/>
         <a href="https://github.com/Aashiq-Edavalapati/My_Portfolio.git">
