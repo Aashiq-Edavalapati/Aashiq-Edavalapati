@@ -349,12 +349,6 @@ while (coding) {
       <p><strong>CGPA: 8.59/10</strong></p>
       <p>Consistent Excellence</p>
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/?size=100&id=XZmFVjcm19rX&format=png&color=FFFFFF" width="64"/>
-      <h3>📈 Growth Trajectory</h3>
-      <p><strong>+0.62 GPA Improvement</strong></p>
-      <p>Sem 1: 8.43 → Sem 2: 9.05</p>
-    </td>
   </tr>
 </table>
 
