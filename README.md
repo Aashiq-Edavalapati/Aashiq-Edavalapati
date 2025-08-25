@@ -325,7 +325,8 @@ while (coding) {
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aashiq-Edavalapati&layout=compact&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Aashiq-Edavalapati&theme=dracula)](https://github.com/Aashiq-Edavalapati/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Aashiq-Edavalapati&theme=dracula)] -->
+[![trophy](https://github-trophies.vercel.app/?username=Aashiq-Edavalapati&theme=dracula)](https://github.com/Aashiq-Edavalapati/github-trophies)
 
 </div>
 
@@ -370,7 +371,7 @@ while (coding) {
     <td align="center" width="50%">
       <img src="https://img.icons8.com/external-justicon-flat-justicon/96/external-open-source-data-science-justicon-flat-justicon.png" width="80"/>
       <h3>🏆 Amrita Winter of Code 2024</h3>
-      <p><strong>Elite Contributor Recognition</strong></p>
+      <p><strong>Contributor</strong></p>
     </td>
     <td align="center" width="50%">
       <img src="https://img.icons8.com/external-justicon-flat-justicon/96/external-community-teamwork-justicon-flat-justicon.png" width="80"/>
