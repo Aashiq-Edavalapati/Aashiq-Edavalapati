@@ -369,12 +369,12 @@ while (coding) {
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://img.icons8.com/external-justicon-flat-justicon/96/external-open-source-data-science-justicon-flat-justicon.png" width="80"/>
+      <img src="https://img.icons8.com/?size=100&id=5esfsIY8G6W1&format=png&color=000000" width="80"/>
       <h3>🏆 Amrita Winter of Code 2024</h3>
       <p><strong>Contributor</strong></p>
     </td>
     <td align="center" width="50%">
-      <img src="https://img.icons8.com/external-justicon-flat-justicon/96/external-community-teamwork-justicon-flat-justicon.png" width="80"/>
+      <img src="https://img.icons8.com/?size=100&id=MLsI9Dal53Hu&format=png&color=000000" width="80"/>
       <h3>👥 Community Impact</h3>
       <p><strong>Multiple Project Contributions</strong></p>
     </td>
