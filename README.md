@@ -36,7 +36,7 @@ const aashiq = {
   role: "AI Engineer & Full-Stack Developer",
   location: "India 🇮🇳",
   education: "Computer Science Engineering @ Amrita Vishwa Vidyapeetham",
-  gpa: "8.59/10 (Consistent Academic Excellence)",
+  gpa: "8.59/10",
   
   expertise: [
     "🌐 Full-Stack Web Development (MERN/Next.js)",
