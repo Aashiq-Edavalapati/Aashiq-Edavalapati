@@ -456,6 +456,6 @@ while (coding) {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-### *"The best way to predict the future is to invent it." - Alan Kay*
+### *"You don't have to be great to start, but you have to start to be great"*
 
 </div>
