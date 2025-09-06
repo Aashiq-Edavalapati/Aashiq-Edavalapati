@@ -449,7 +449,7 @@ while (coding) {
 </table>
 
 [![Email](https://img.shields.io/badge/📧_Let's_Connect-Professional_Inquiries-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aashiqedavalapati58@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/🤝_Professional_Network-Connect_Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashiq-edavalapati-77b346289/)
+[![LinkedIn](https://img.shields.io/badge/🤝_Professional_Network-Connect_Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashiq-edavalapati/)
 [![Portfolio](https://img.shields.io/badge/🌟_Experience_My_Work-Visit_Portfolio-6A5ACD?style=for-the-badge&logo=safari&logoColor=white)](https://aashiqedavalapati.vercel.app/)
 
 ---
