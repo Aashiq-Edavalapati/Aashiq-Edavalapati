@@ -342,7 +342,7 @@ while (coding) {
       <img src="https://img.icons8.com/?size=100&id=XVdLRePLrKeo&format=png&color=000000" width="64"/>
       <h3>🎓 B.Tech Computer Science</h3>
       <p><strong>Amrita Vishwa Vidyapeetham</strong></p>
-      <p>2022 - 2026</p>
+      <p>2023 - 2027</p>
     </td>
     <td align="center" width="33%">
       <img src="https://img.icons8.com/?size=100&id=a6dmGwkzqrCS&format=png&color=000000" width="64"/>
