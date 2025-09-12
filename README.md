@@ -16,16 +16,6 @@
 
 ---
 
-## 📋 **TABLE OF CONTENTS**
-
-<div align="center">
-
-**[🎯 About Me](#-about-me) • [🏆 Key Achievements](#-key-achievements) • [🛠️ Tech Stack](#️-tech-stack) • [🚀 Featured Projects](#-featured-projects) • [📊 GitHub Analytics](#-github-analytics) • [🎓 Education](#-education) • [🌟 Open Source](#-open-source-contributions) • [📞 Contact](#-lets-connect)**
-
-</div>
-
----
-
 ## 🎯 **ABOUT ME**
 
 > **Computer Science Engineer** passionate about creating **AI-powered solutions** that revolutionize how we interact with technology. I architect scalable systems and solve complex algorithmic challenges that bridge the gap between human needs and technological possibilities.
@@ -327,81 +317,6 @@ while (coding) {
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Aashiq-Edavalapati&theme=dracula)] -->
 [![trophy](https://github-trophies.vercel.app/?username=Aashiq-Edavalapati&theme=dracula)](https://github.com/Aashiq-Edavalapati/github-trophies)
-
-</div>
-
----
-
-## 🎓 **EDUCATION**
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/?size=100&id=XVdLRePLrKeo&format=png&color=000000" width="64"/>
-      <h3>🎓 B.Tech Computer Science</h3>
-      <p><strong>Amrita Vishwa Vidyapeetham</strong></p>
-      <p>2023 - 2027</p>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/?size=100&id=a6dmGwkzqrCS&format=png&color=000000" width="64"/>
-      <h3>📊 Academic Performance</h3>
-      <p><strong>CGPA: 8.59/10</strong></p>
-      <p>Consistent Excellence</p>
-    </td>
-  </tr>
-</table>
-
-### 📜 **PROFESSIONAL CERTIFICATIONS**
-
-![Google Cloud](https://img.shields.io/badge/☁️_Google_Cloud_Data_Analytics-Professional_Certificate-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Google Cybersecurity](https://img.shields.io/badge/🔒_Google_Cybersecurity-Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-</div>
-
----
-
-## 🌟 **OPEN SOURCE CONTRIBUTIONS**
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://img.icons8.com/?size=100&id=5esfsIY8G6W1&format=png&color=000000" width="80"/>
-      <h3>🏆 Amrita Winter of Code 2024</h3>
-      <p><strong>Contributor</strong></p>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.icons8.com/?size=100&id=MLsI9Dal53Hu&format=png&color=000000" width="80"/>
-      <h3>👥 Community Impact</h3>
-      <p><strong>Multiple Project Contributions</strong></p>
-    </td>
-  </tr>
-</table>
-
-### 🛠️ **CONTRIBUTION HIGHLIGHTS**
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h4>🌐 AWoC Website</h4>
-      <p>Enhanced user experience and interface design for the main event platform</p>
-    </td>
-    <td align="center" width="33%">
-      <h4>📊 DashTable (Go)</h4>
-      <p>Built comprehensive data visualization tool from scratch with advanced features</p>
-    </td>
-    <td align="center" width="33%">
-      <h4>🏆 Leaderboard System</h4>
-      <p>Developed advanced filtering, sorting, and ranking capabilities</p>
-    </td>
-  </tr>
-</table>
-
-![Open Source](https://img.shields.io/badge/🌟_Open_Source_Advocate-Empowering_Innovation-FF6B35?style=for-the-badge)
-![Community](https://img.shields.io/badge/👥_Community_Builder-Fostering_Collaboration-4ECDC4?style=for-the-badge)
 
 </div>
 
