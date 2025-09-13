@@ -51,49 +51,6 @@ while (coding) {
 
 ---
 
-## 🏆 **KEY ACHIEVEMENTS**
-
-<div align="center">
-
-### 🎖️ **RECOGNITION & AWARDS**
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/external-justicon-flat-justicon/64/external-trophy-reward-and-badges-justicon-flat-justicon.png" width="48" alt="trophy"/>
-      <h4>🥉 HackBeyondLimits 2024</h4>
-      <p><strong>3rd Place Winner</strong><br/>AgriChain</p>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/external-justicon-flat-justicon/64/external-medal-reward-and-badges-justicon-flat-justicon.png" width="48" alt="medal"/>
-      <h4>🌟 AWoC 2024</h4>
-      <p><strong>Elite Contributor</strong><br/>Multi-Project Excellence</p>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/?size=100&id=O713QAUVtMnH&format=png&color=000000" width="48" alt="rank"/>
-      <h4>⚔️ LeetCode Master</h4>
-      <p><strong>Top 90K Globally</strong><br/>600+ Problems Solved</p>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/external-justicon-flat-justicon/64/external-certificate-reward-and-badges-justicon-flat-justicon.png" width="48" alt="certificate"/>
-      <h4>📜 Google Certified</h4>
-      <p><strong>Cloud Data Analytics</strong><br/>Professional Certificate</p>
-    </td>
-  </tr>
-</table>
-
-### 📈 **PERFORMANCE METRICS**
-
-![Academic Excellence](https://img.shields.io/badge/🎓_Academic_GPA-8.59/10-success?style=for-the-badge)
-![Problem Solving](https://img.shields.io/badge/⚡_Problems_Solved-600+-important?style=for-the-badge)
-![Max Streak](https://img.shields.io/badge/🔥_Max_Streak-125_Days-orange?style=for-the-badge)
-![Global Rank](https://img.shields.io/badge/🌍_Global_Rank-Top_90K-blue?style=for-the-badge)
-![Solution Upvotes](https://img.shields.io/badge/👍_Solution_Upvotes-350+-brightgreen?style=for-the-badge)
-
-</div>
-
----
-
 <div align="center">
 
 ## 🏆 **COMPETITIVE CODING DOMINANCE**
