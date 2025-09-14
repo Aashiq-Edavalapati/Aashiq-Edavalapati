@@ -158,33 +158,6 @@ while (coding) {
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>☁️ <strong>Google Cloud Analytics Capstone</strong></h3>
-        <a href="https://github.com/Aashiq-Edavalapati/google-cloud-data-analytics-capstone">
-          <img src="https://github.com/Aashiq-Edavalapati/google-cloud-data-analytics-capstone/blob/main/Part%202%20-%20Analyze%20and%20activate%20your%20data%20with%20Looker%20Enterprise/screenshots/9_Top%2010%20Customers%20by%20Highest%20Income.png?raw=true" width="100%" alt="Google Capstone"/>
-        </a>
-        <br/><br/>
-        <a href="https://github.com/Aashiq-Edavalapati/google-cloud-data-analytics-capstone">
-          <img src="https://img.shields.io/badge/📋_README-Case_Study-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-        <img src="https://img.shields.io/badge/📜_Certified-Google_Professional-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-        <br/><br/>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white"/>
-          <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=google-bigquery&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Looker-4285F4?style=flat&logo=looker&logoColor=white"/>
-          <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-        </p>
-      </div>
-      <h4>📊 Professional Simulation:</h4>
-      <p>
-        ▸ <strong>Executive Dashboards:</strong> C-suite ready financial analytics and KPI monitoring<br/>
-        ▸ <strong>Data Pipeline Architecture:</strong> ETL processes handling millions of financial records<br/>
-        ▸ <strong>Predictive Modeling:</strong> Loan portfolio risk assessment and optimization strategies<br/>
-        ▸ <strong>Real-world Application:</strong> Simulated FinTech Treasury team data analyst role
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
         <h3>🎨 <strong>Portfolio</strong></h3>
         <a href="https://aashiqedavalapati.vercel.app/">
           <img src="https://github.com/user-attachments/assets/bcf02805-7a8a-4b78-a246-310f47892aa3" width="100%" alt="Portfolio"/>
@@ -213,44 +186,7 @@ while (coding) {
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 <strong>Link-Us</strong> Social Networking</h3>
-      <div align="center">
-        <a href="https://github.com/adithya-menon-r/Link-Us.git">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBjbm4yZGRzcWt2eGx4ZWh5MG9nc3VsaXFkbXdscXRuNW5zNndidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPic2BnoVZkRVSM/giphy.gif" width="100%" alt="Link-Us"/>
-        </a>
-        <br><br>
-        <a href="https://github.com/adithya-menon-r/Link-Us.git">
-          <img src="https://img.shields.io/badge/🔗_Algorithm_Magic-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-        <br><br>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AI-FF6B35?style=flat&logo=brain&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Algorithms-4ECDC4?style=flat&logo=algorithm&logoColor=white"/>
-        <br><br>
-        <p> Engineered sophisticated social connection platform with multi-factor recommendation engine. Advanced algorithms balance social dynamics, interests, and geographic factors for optimal matching.</p>
-      </div>
-    </td>
-    <td>
-      <h3 align="center">📚 <strong>LMS Platform</strong> - Intel IoT Club Leadership</h3>
-      <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="LMS Development"/>
-        <br><br>
-        <a href="https://www.inteliotclub.site/">
-          <img src="https://img.shields.io/badge/🏢_Intel_IoT_Club-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
-        </a>
-        <br><br>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white"/>
-        <br><br>
-        <p><strong>🎖️ Leadership Role:</strong> Led development of comprehensive Learning Management System for Intel IoT Club. Architected scalable MERN solution with cloud-based resource storage, serving the entire club community.</p>
-      </div>
-    </td>
-  </tr>
+  
 </table>
 
 <div align="center">
