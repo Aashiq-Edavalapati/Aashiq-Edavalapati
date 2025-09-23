@@ -35,7 +35,6 @@ const aashiq = {
     "🤖 Artificial Intelligence & Machine Learning (Datacamp Certified)",
   ],
 
-  currentGPA: 8.59, 
   mission: "Engineering the future",
   availableFor: ["Full-time Opportunities", "Internships", "Open Source Collaboration"]
 };
@@ -43,6 +42,7 @@ const aashiq = {
 // The Philosophy
 while (coding) {
   innovate();
+  learn();
   solve();
   inspire();
   repeat();
