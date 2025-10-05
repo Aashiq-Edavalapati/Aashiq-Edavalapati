@@ -89,13 +89,6 @@ while (coding) {
 ---
 
 ## 🚀 **FEATURED PROJECTS**
-
-<div align="center">
-
-### 🌟 **FLAGSHIP DEVELOPMENTS**
-
-</div>
-
 <table>
   <tr>
     <td width="50%" valign="top">
