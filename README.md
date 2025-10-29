@@ -1,9 +1,9 @@
 <div align="center"> 
 
 # AASHIQ EDAVALAPATI
-### 🚀 **Cloud Enthusiast | Full-Stack Architect | Problem-Solver**
+### **Cloud Enthusiast | Full-Stack Architect | Problem-Solver**
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&height=70&lines=💻Computer+Science+Engineer💻;🪜Algorithms+Enthusiast🪜;🤖Cloud+Enthusiast🤖;⚡Professional+Problem+Solver⚡;📂Opensource+Contributor📂)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&height=70&lines=💻Computer+Science+Engineer💻;🪜Algorithms+Enthusiast🪜;☁️Cloud+Enthusiast☁️;⚡Professional+Problem+Solver⚡;📂Opensource+Contributor📂)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
