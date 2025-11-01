@@ -112,13 +112,6 @@ while (coding) {
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
         </p>
       </div>
-      <h4>🎯 Revolutionary Impact:</h4>
-      <p>
-        ▸ <strong>AI-Powered Grading System:</strong> Automated evaluation with contextual understanding<br/>
-        ▸ <strong>Intelligent Code Analysis:</strong> Real-time feedback and optimization suggestions<br/>
-        ▸ <strong>Performance Analytics:</strong> Comprehensive learning insights and progress tracking<br/>
-        ▸ <strong>Scalable Architecture:</strong> Built for institutional deployment and high-volume usage
-      </p>
     </td>
     <td width="50%" valign="top">
       <div align="center">
@@ -139,13 +132,6 @@ while (coding) {
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
         </p>
       </div>
-      <h4>🏆 Hackathon Victory:</h4>
-      <p>
-        ▸ <strong>Blockchain Transparency:</strong> Immutable supply chain tracking from farm to table<br/>
-        ▸ <strong>Smart Contracts:</strong> Automated farmer payments and quality assurance protocols<br/>
-        ▸ <strong>Food Safety Assurance:</strong> Real-time contamination detection and alert systems<br/>
-        ▸ <strong>Market Integration:</strong> Direct farmer-to-consumer marketplace with verified quality
-      </p>
     </td>
   </tr>
   <tr>
@@ -170,13 +156,6 @@ while (coding) {
           <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
         </p>
       </div>
-      <h4>✨ Design Excellence:</h4>
-      <p>
-        ▸ <strong>Interactive Storytelling:</strong> Engaging narrative with smooth animations and transitions<br/>
-        ▸ <strong>Responsive Mastery:</strong> Pixel-perfect design across all devices and screen sizes<br/>
-        ▸ <strong>Performance Optimized:</strong> Fast loading times with modern web optimization techniques<br/>
-        ▸ <strong>Professional Showcase:</strong> Complete demonstration of technical and creative capabilities
-      </p>
     </td>
   </tr>
   
