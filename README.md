@@ -18,7 +18,13 @@
 
 ## 🎯 **ABOUT ME**
 
-> **Computer Science Engineer** passionate about creating **AI-powered solutions** that revolutionize how we interact with technology. I architect scalable systems and solve complex algorithmic challenges that bridge the gap between human needs and technological possibilities.
+> Computer Science undergraduate with strong problem-solving skills (600+ LeetCode problems) and
+ a focus on backend and enterprise application development. Proficient in Java, SQL, and object
+oriented programming, with hands-on experience in building full-stack web applications using React,
+ Node.js, Express, and PostgreSQL. Experienced in designing and optimizing REST APIs, manag
+ing databases, and deploying applications on cloud platforms (GCP, Vercel). Actively engaged in
+ hackathons and open-source contributions, with exposure to Agile development practices and collab
+orative coding using Git and GitHub.
 
 ```typescript
 const aashiq = {
@@ -88,7 +94,7 @@ while (coding) {
 
 ---
 
-## 🚀 **FEATURED PROJECTS**
+## **FEATURED PROJECTS**
 <table>
   <tr>
     <td width="50%" valign="top">
