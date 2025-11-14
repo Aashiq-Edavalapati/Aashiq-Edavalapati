@@ -199,7 +199,7 @@ while (coding) {
 
 ### 🚀 **READY TO COLLABORATE?**
 
-<p>Whether you're looking for an innovative problem-solver, AI enthusiast, or full-stack architect who transforms ideas into impactful solutions—let's build something extraordinary together.</p>
+<p>Whether you're looking for an innovative problem-solver, Cloud enthusiast, or full-stack architect who transforms ideas into impactful solutions—let's build something extraordinary together.</p>
 
 <table>
   <tr>
