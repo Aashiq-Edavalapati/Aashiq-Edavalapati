@@ -65,9 +65,8 @@ while (coding) {
 
 
 ![Problems Solved](https://img.shields.io/badge/Problems_Solved-600+-00FF87?style=for-the-badge&logo=checkmarx)
-![Max Streak](https://img.shields.io/badge/Max_Streak-125_Days-FF6B6B?style=for-the-badge&logo=fire)
 ![Solution Upvotes](https://img.shields.io/badge/Solution_Upvotes-350+-FFD93D?style=for-the-badge&logo=thumbs-up)
-![Global Ranking](https://img.shields.io/badge/Global_Rank-Top_90K-6BCF7F?style=for-the-badge&logo=trophy)
+![Global Ranking](https://img.shields.io/badge/Global_Rank-Top_70K-6BCF7F?style=for-the-badge&logo=trophy)
 
 </div>
 
