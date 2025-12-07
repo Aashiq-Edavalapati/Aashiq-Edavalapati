@@ -23,8 +23,7 @@
 oriented programming, with hands-on experience in building full-stack web applications using React,
  Node.js, Express, and PostgreSQL. Experienced in designing and optimizing REST APIs, manag
 ing databases, and deploying applications on cloud platforms (GCP, Vercel). Actively engaged in
- hackathons and open-source contributions, with exposure to Agile development practices and collab
-orative coding using Git and GitHub.
+ hackathons and open-source contributions, with exposure to Agile development practices and collaborative coding using Git and GitHub.
 
 ```typescript
 const aashiq = {
