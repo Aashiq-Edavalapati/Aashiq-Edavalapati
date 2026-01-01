@@ -111,6 +111,7 @@ while (coding) {
         <br/><br/>
         <p align="center">
           <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat"/>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
           <img src="https://img.shields.io/badge/AI-FF6B35?style=flat&logo=openai&logoColor=white"/>
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
@@ -131,38 +132,14 @@ while (coding) {
         <br/><br/>
         <p align="center">
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-          <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white"/>
-          <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat"/>
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
         </p>
       </div>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>🎨 <strong>Portfolio</strong></h3>
-        <a href="https://aashiqedavalapati.vercel.app/">
-          <img src="https://github.com/user-attachments/assets/bcf02805-7a8a-4b78-a246-310f47892aa3" width="100%" alt="Portfolio"/>
-        </a>
-        <br/><br/>
-        <a href="https://github.com/Aashiq-Edavalapati/My_Portfolio.git">
-          <img src="https://img.shields.io/badge/📋_README-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-        <a href="https://aashiqedavalapati.vercel.app/">
-          <img src="https://img.shields.io/badge/🌐_Live_Site-Visit_Now-FF6B6B?style=for-the-badge&logo=safari&logoColor=white"/>
-        </a>
-        <br/><br/>
-        <p align="center">
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-          <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
-        </p>
-      </div>
-    </td>
-  </tr>
-  
+  </tr>  
 </table>
 
 <div align="center">
